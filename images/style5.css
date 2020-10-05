@@ -1,0 +1,196 @@
+*{
+    magin:0;
+    padding:o;
+    box-sizing: border-box;
+}
+.clr {
+    clear: both;
+}
+header {
+    background: black;
+    height: 50px;
+}
+#body {
+    background: yellow;
+}
+#menu-wrapper{
+    background: pink;
+    
+}
+
+
+#menu{
+    width: 900px;
+    margin:0px auto;
+}
+#menu ul li {
+    display: inline;
+}
+#main {
+    width: 900px;
+    margin: 0px auto;
+}
+#main-section{
+    background:white;
+}
+#content {
+    float: left;
+    width:600px;
+}
+#hot-ads {
+    background: red;
+    height: 150px;
+}
+#sidebar {
+    float: right;
+    width:300px;
+}
+#hot-ads-1 {
+    background: sienna;
+    height: 100px;
+}
+#hot-ads-2 {
+    background: teal;
+    height:50px ;
+}
+#dia-chi div{
+    margin-top: 15px;
+    
+    width:25%;
+    border:1px solid black;
+    float:left;
+}
+#hangsanpham div{
+    margin-top: 15px;
+    background: papayawhip;
+    height:50px;
+    width:20%;
+    border:1px solid white;
+    float:right;
+    
+}
+#nhucau div{
+    
+    margin-top: 16px;
+    background: rgb(201, 131, 18);
+    height:50px;
+    width:30%;
+    border:1px solid white;
+    float:left;
+}#mucgia ul li{
+    display: inline;
+    background:paleturquoise;
+    height:50px;
+    width:11%;
+    float:left;
+
+}#loai-1{
+    margin: 0px auto;
+    margin-top: 50px;
+    background: red;
+    width: 300px;
+    height:100px;
+    float: left;
+   
+
+
+}
+#loai-2{
+    margin-top: 50px;
+    background:yellow;
+    width: 200px;
+    height:100px;
+    float: left;
+   
+
+}
+#loai-3{
+    margin-top: 50px;
+    background:blue;
+    width: 200px;
+    height:100px;
+    float: left;
+   
+
+}
+#loai-4{
+    margin-top: 50px;
+
+    background:brown;
+    width: 200px;
+    height:100px;
+    float: left;
+   
+}
+#main1 {
+    width: 900px;
+    margin: 0px auto;
+
+}
+#main-section{
+    background:white;
+
+}
+
+
+#nhucau1 div{
+    margin-top: 10px; 
+    background: rgb(201, 131, 18);
+    height:50px;
+    width:30%;
+    border:1px solid white;
+    float:left;
+   
+}#mucgia1 ul li{
+    margin-top: 10px; 
+    display: inline;
+    background:paleturquoise;
+    height:50px;
+    width:12%;
+   
+    float:left;
+
+}#loai-11{
+    margin-top: 10px; 
+    margin-top: 50px;
+    background: red;
+    width: 300px;
+    height:100px;
+    float: left;
+   
+
+
+}
+#loai-21{
+    margin-top: 10px; 
+    margin-top: 50px;
+    background:yellow;
+    width: 200px;
+    height:100px;
+    float: left;
+   
+
+}
+#loai-31{
+    margin-top: 10px; 
+    margin-top: 50px;
+    background:blue;
+    width: 200px;
+    height:100px;
+    float: left;
+   
+
+}
+#loai-41{
+    margin-top: 10px; 
+    margin-top: 50px;
+
+    background:brown;
+    width: 200px;
+    height:100px;
+    float: left;
+   
+}
+#thongtin {
+    background: pink;
+}

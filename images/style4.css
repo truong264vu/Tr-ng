@@ -1,0 +1,29 @@
+#box {
+    width: 400px;
+    height: 300px;
+    background: orangered;
+}
+h1 {
+    width: 500px;
+    height: 250px;
+    background: palegreen;
+    padding: 20px 50px 60px 80px;
+    box-sizing: border-box;
+    border:5px dotted blue ;
+    margin-top: 100px;
+    margin-left: 500px;
+   
+
+}
+    ;
+}
+#wrapper div{
+    width: 33%;
+    display: inline-block;
+    border:2px solid blue;
+    margin-left: 50px;
+
+}
+
+
+
